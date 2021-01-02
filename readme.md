@@ -17,3 +17,6 @@ npm install
 # npm run dev
 
 -version 1
+
+# Postman Documentary
+https://documenter.getpostman.com/view/13102040/TVt2bNuu
